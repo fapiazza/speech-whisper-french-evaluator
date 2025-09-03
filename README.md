@@ -1,3 +1,14 @@
+---
+title: French Pronunciation Evaluator
+emoji: 🎙️
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+---
+
 # 🎙️ French Pronunciation Evaluator
 
 A Gradio-based web application that evaluates French pronunciation accuracy using OpenAI Whisper, with built-in lisp detection for sibilant sounds.
