@@ -1,0 +1,6 @@
+gradio>=4.44.0
+openai-whisper>=20231117
+textdistance>=4.6.0
+plotly>=5.17.0
+torch>=2.0.0
+numpy>=1.24.0
